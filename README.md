@@ -1,7 +1,6 @@
 # Ex01 Portfolio
-## Date:
-
-## AIM
+## Date: 24.07.2026
+## AI
 To create a Portfolio using HTML and CSS.
 
 ## ALGORITHM
@@ -48,10 +47,10 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-~~~
 
 HTML
 
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -114,8 +113,10 @@ HTML
   </body>
 </html>
 
+~~~
 CSS
 
+~~~
 :root {
   color-scheme: light;
   color: #0f172a;
