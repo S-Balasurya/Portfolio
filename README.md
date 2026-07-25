@@ -221,10 +221,9 @@ p {
 
 ## OUTPUT
 
-<img width="1920" height="1028" alt="Screenshot 2026-07-24 220923" src="https://github.com/user-attachments/assets/94868345-0982-4cf2-93d8-8132013ebd3d" />
+<img width="1891" height="871" alt="Screenshot 2026-07-25 130720" src="https://github.com/user-attachments/assets/0028999f-3143-433c-a5a4-f54db2201bd3" />
 
-<img width="1920" height="1017" alt="Screenshot 2026-07-24 220938" src="https://github.com/user-attachments/assets/2bcd1c53-0ddd-4fee-9353-ff7986efde99" />
-
+<img width="1888" height="852" alt="Screenshot 2026-07-25 130737" src="https://github.com/user-attachments/assets/678378a8-5bd5-4536-8bf2-29554fbb2fe7" />
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
