@@ -69,7 +69,7 @@ HTML
             <p>Saveetha Engineering College</p>
           </div>
 
-          <img class="profile-photo" src="profile.png" alt="Profile photo of Balasurya S" />
+          <img class="profile-photo" src="photo.PNG" alt="Profile photo of Balasurya S" />
         </div>
       </header>
 
@@ -77,8 +77,7 @@ HTML
         <h2>About Me</h2>
         <p>
           I am studying 2nd year B.E. Cyber Security at Saveetha Engineering
-          College. I have a strong interest in cyber security, networking, and
-          penetration testing.
+          College. I have a strong interest in cyber security and networking
         </p>
       </section>
 
@@ -92,12 +91,11 @@ HTML
       <section class="skills">
         <h2>Skills</h2>
         <ul>
-          <li>Cyber Security</li>
-          <li>Networking</li>
-          <li>Penetration Testing</li>
-          <li>Security Analysis</li>
-          <li>Ethical Hacking</li>
-          <li>Network Defense</li>
+          <li>C Language</li>
+          <li>Networking and Cyber Security Basics</li>
+          <li>Python language</li>
+          <li>Java Language</li>
+          <li>Sql</li>
         </ul>
       </section>
 
